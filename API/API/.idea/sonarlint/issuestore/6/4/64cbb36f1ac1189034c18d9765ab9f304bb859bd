@@ -1,0 +1,13 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù“Æ\8Äãâ¤ø1J$ae6e82e6-7f9a-46a7-bbba-7e4ec8193fca
+—	java:S116"URename this field "nombre_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£²ÑÑ8ğ®Ìü‚2J$780c8670-9c1a-413e-a54d-54c5a1ad1d09
+š	java:S116"XRename this field "apellidos_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸşœÒ8Èãâ¤ø1J$fd5a3d97-484c-4eba-94a9-44dbb38dfd6a
+œ	java:S116"[Rename this field "departamento_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÀËf8ø´Ëº…2J$2350a946-6c6e-4bd9-ae37-76d12d409f06
+˜	java:S116"WRename this field "distrito_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÛé{8ù´Ëº…2J$27ab368c-805b-4a22-9212-ed26db2981a6
+Ÿ	java:S116!"XRename this field "direccion_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×¿®şÿÿÿÿ8ø·Íº…2J$a95f0950-f9cb-417d-af27-611b29c93a89
+˜	java:S116$"VRename this field "tipodoc_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬æ¶8š—Àº…2J$d54306f8-7cdb-4a35-9358-7d6766b25967
+—	java:S116'"URename this field "nrodoc_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›şÊ8‹¿º…2J$811bc98a-4154-490d-b2ef-d33d9e40f478
+	java:S116*"WRename this field "telefono_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Şè¦ûÿÿÿÿ8ôËº…2J$a17d8334-0830-456f-b488-64ce0c6dfed4
+—	java:S116-"URename this field "correo_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÆÉ8ôËº…2J$a20fe9a0-d956-4264-bed6-e473367c403b
+•	java:S1160"SRename this field "pais_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ™™Ë8º®Òº…2J$34a378e2-f3ff-44a9-ad38-47fb81f03dc3
+œ	java:S1163"ZRename this field "descripcion_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ƒ–è8õËº…2J$873cc773-15a5-409e-910b-5eff6971cfb4

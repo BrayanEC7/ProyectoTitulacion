@@ -1,0 +1,8 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù“Æ\8ÎÆÎĞ÷1J$d7047491-13b8-4de3-a3a2-54c763adbdc8
+›	java:S116"YRename this field "nombres_pedido" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ëÒ8„÷Õü‚2J$50fcf71d-2c0c-44e6-a7ce-a30df2a98973
+™	java:S116"WRename this field "email_pedido" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‰²8¨í×ü‚2J$a67dc415-8608-4d72-9883-36ed018aa1f6
+ 	java:S116"YRename this field "empresa_pedido" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š€˜üÿÿÿÿ8Øü‚2J$0c86b2bb-5038-4851-ba85-23d0a7452aad
+¡	java:S116 "ZRename this field "telefono_pedido" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ÿ…Şùÿÿÿÿ8á´Øü‚2J$79b38876-65a6-4118-9233-53ab47b77504
+ 	java:S116#"YRename this field "mensaje_pedido" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü²¨Öûÿÿÿÿ8¹¢Ùü‚2J$604fa965-1f18-4699-8f14-353e19c8b7ba
+¢	java:S116%"`Rename this field "fecha_registro_pedido" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¤Ç8Û„Úü‚2J$b7626629-b9e7-49a0-a7b5-ff2ac0a5313e

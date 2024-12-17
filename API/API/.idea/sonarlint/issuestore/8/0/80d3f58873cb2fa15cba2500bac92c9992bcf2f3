@@ -1,0 +1,17 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ω“Ζ\8–ωσ1J$f56691ed-7d53-43b2-b34f-7be9b5ceb95e
+	java:S116"VRename this field "codigo_prop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Υ¬ν¥8³ω™ό1J$93bff970-a6d3-46b2-977e-e7aae94794d6
+	java:S116"VRename this field "titulo_prop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(μη­«ψÿÿÿÿ8ωσ1J$72c12328-dd0f-452b-9554-008b1a11dc8b
+ 	java:S116"^Rename this field "foto_principal_prop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(βΞΈª8ωσ1J$e57914ec-44ef-447b-8e51-e1f904278039
+¦	java:S116"_Rename this field "foto_secundaria_prop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ω‡λόÿÿÿÿ8ωσ1J$32f57edf-a49b-4bf3-ab42-be07581d6f54
+ 	java:S116!"YRename this field "categoria_prop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΫγΌΗώÿÿÿÿ8ωσ1J$f77cdb79-6553-4547-8377-8ca08ce1f4fd
+£	java:S116$"\Rename this field "estado_venta_prop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ΘγΓύÿÿÿÿ8ωσ1J$353aa8f5-662f-49bb-9d87-1cdbe8bd44aa
+Ά	java:S116&"[Rename this field "descripcion_prop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ι›Ώψÿÿÿÿ8ωσ1J$5e453ce1-0e54-4be0-964d-d8efc5dbb005
+ 	java:S116)"YRename this field "provincia_prop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(φΆιωÿÿÿÿ8ωσ1J$d3106cc5-b5d7-42a3-8482-c32e9f52a888
+£	java:S116,"aRename this field "fecha_publicacion_prop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ά†α8ωσ1J$d3e52da7-0f81-459d-a8f2-b7a7e2fbcd29
+	java:S116/"WRename this field "activar_prop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒΚ½Ωϋÿÿÿÿ8ωσ1J$085d01dd-85c1-4fb6-a232-20ac8bb84685
+Ά	java:S1161"[Rename this field "coordenadas_prop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤€Δ ώÿÿÿÿ8ωσ1J$7642c5c6-f481-43d2-81e5-e06b2ffa58f0
+΅	java:S1164"ZRename this field "area_total_prop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ε ςήύÿÿÿÿ8ωσ1J$ea15cfe3-a2cb-4122-86a4-a0e7a453ccaa
+	java:S1167"WRename this field "manzana_prop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(υΔ¦ύÿÿÿÿ8ωσ1J$3a512a5c-3a26-47b3-8466-00e240278446
+›	java:S116:"TRename this field "lote_prop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹εϋÿÿÿÿ8ωσ1J$5a8abade-77a7-487a-bc6f-9c6da76a8336
+	java:S116="VRename this field "precio_prop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Έφ“8ωσ1J$c6373f94-8be6-4a8c-ad8c-90c804a98946

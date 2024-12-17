@@ -1,0 +1,4 @@
+
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù“Æ\J$6e1bb6c7-cc6d-48be-a4fa-efcdf861532f
+œ	java:S116 "URename this field "estado_rol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ùå€ûÿÿÿÿ8Ý¸û¬ø1J$3e7f6be4-4870-4aa3-807a-e756cdedccc4
+—	java:S116#"URename this field "nombre_rol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÍŒ¼8ªšˆ­ø1J$34f3a5d7-6cd3-4fa0-87a5-d72dba73a400

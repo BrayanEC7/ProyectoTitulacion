@@ -1,0 +1,28 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏÉŒÅ8ÅÑ¬æ¦2
+n	java:S116"RRename this field "ambi_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úœìû8ÈÑ¬æ¦2
+x	java:S116"\Rename this field "ambi_denominacion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÆ¾¯8ÈÑ¬æ¦2
+u	java:S116	"YRename this field "ambi_capacidad" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÉÓÌ8ÈÑ¬æ¦2
+z	java:S116
+"YRename this field "ambi_direccion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÏÜøûÿÿÿÿ8ÈÑ¬æ¦2
+~	java:S116"]Rename this field "ambi_precioporhora" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§´¿Íøÿÿÿÿ8ÈÑ¬æ¦2
+	java:S116"^Rename this field "ambi_fecha_creacion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÛãùÿÿÿÿ8ÈÑ¬æ¦2
+„	java:S116"cRename this field "ambi_fecha_actualizacion" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠØ·Ïúÿÿÿÿ8ÉÑ¬æ¦2
+r	java:S116"VRename this field "ambi_estado" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óäÊ¡8ÉÑ¬æ¦2
+H
+java:S1068"+Remove this unused "ambi_id" private field.(úœìû8ÎÑ¬æ¦2
+R
+java:S1068"5Remove this unused "ambi_denominacion" private field.(ÕÆ¾¯8ÎÑ¬æ¦2
+O
+java:S1068	"2Remove this unused "ambi_capacidad" private field.(ïÉÓÌ8ÏÑ¬æ¦2
+T
+java:S1068
+"2Remove this unused "ambi_direccion" private field.(ğÏÜøûÿÿÿÿ8ÏÑ¬æ¦2
+X
+java:S1068"6Remove this unused "ambi_precioporhora" private field.(§´¿Íøÿÿÿÿ8ÏÑ¬æ¦2
+Y
+java:S1068"7Remove this unused "ambi_fecha_creacion" private field.(ˆÛãùÿÿÿÿ8ÏÑ¬æ¦2
+^
+java:S1068"<Remove this unused "ambi_fecha_actualizacion" private field.(ŠØ·Ïúÿÿÿÿ8ÏÑ¬æ¦2
+L
+java:S1068"/Remove this unused "ambi_estado" private field.(óäÊ¡8ÏÑ¬æ¦2

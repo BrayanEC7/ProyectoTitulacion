@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏÉŒÅ8‚ÖÀå2J$70be68fb-05bf-4f8a-b3a6-11c3168936bd
+–	java:S116
+"URename this field "nombre_emp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«™ºt8‘Ğå2J$f8232890-26d9-4851-b1ad-136fab3aa351
+	java:S116"[Rename this field "departamento_emp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ÏÉ8üÔĞå2J$c4954f3b-8c4e-497b-9c5c-a5f19323b18c
+Ÿ	java:S116"XRename this field "provincia_emp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿâìıÿÿÿÿ8üÔĞå2J$f46cfd45-42a9-4c0c-a1b3-69dd83401cff
+š	java:S116"XRename this field "direccion_emp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªìõ8€ÕĞå2J$534ba666-348a-4d76-9152-f263679657b7
+	java:S116"WRename this field "sitioWeb_emp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Óİÿÿÿÿÿ8ƒ˜Ñå2J$6386cb31-8658-4cfb-b1bd-454085bbe997
+	java:S116"WRename this field "telefono_emp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í—Ìışÿÿÿÿ8ƒ˜Ñå2J$480ffd4e-0bb0-4414-b8d6-3f5e3b6b08c7
+–	java:S116"TRename this field "email_emp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¤À8É½Ñå2J$d06da3b1-3084-446b-a7ae-085bffb7df31
+£	java:S116"\Rename this field "tipoDocumento_emp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÎ²üşÿÿÿÿ8Ğ…Õå2J$2de5e646-0d53-4d46-b143-434d1f10c087
+¥	java:S116"^Rename this field "numeroDocumento_emp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇËÕìûÿÿÿÿ8ú¥Õå2J$46423703-c0fa-42c0-bf47-bbd2fb2c564e
+œ	java:S116"ZRename this field "descripcion_emp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ…—•8ü¨Ôå2J$c0b1327a-00c0-45d3-971f-600a0fae38c8
+•	java:S116"SRename this field "logo_emp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËüÕö8ü¨Ôå2J$7690c37d-d7a1-48ca-95a1-c7be703d1ae3

@@ -1,0 +1,27 @@
+
+¡
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(õûªÐûÿÿÿÿ8ø‘ˆ¦„2J$b6ba1f75-9500-4c25-9140-3187eb937dea
+œ
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù…ß 8€’ˆ¦„2J$808aa09c-2e19-4532-b79b-23a999154c77
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ÝŒÙ8€’ˆ¦„2J$22900cee-07e6-49ec-b818-5801aa0a5501
+“
+java:S3655("PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(èÙ”þ8Ùå’¦„2J$8942a03a-902d-4bea-9be0-577d3e4d4f37
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8ˆ’ˆ¦„2J$b2cc2657-4ea4-4661-ac5f-0d974a3e0f67
+ƒ	java:S125%"<This block of commented-out lines of code should be removed.(Ý ©ùÿÿÿÿ8ÇÔ‰¦„2J$88b24642-47c6-4c81-a9ac-ede7ed883fc5
+•
+java:S1128"MRemove this unused import 'com.monsalve.inmoviliaria.Controller.Dto.PagoDto'.(…ÞÌ™øÿÿÿÿ8áå’¦„2J$057fe352-33b1-4bf0-888c-37508a2b1e59
+q
+java:S1128".Remove this unused import 'com.stripe.Stripe'.(‘íü8Ð¨²„2J$765d9119-8723-44c0-99a6-7c9ddbf00d01
+‰
+java:S1128"ARemove this unused import 'com.stripe.exception.StripeException'.(þÏßòúÿÿÿÿ8áå’¦„2J$2391efa9-3259-4061-a66d-9222bee4bbd4
+w
+java:S1128"4Remove this unused import 'com.stripe.model.Charge'.(¶ð8áå’¦„2J$30518087-8029-4fce-ac51-58d44ab457c6
+‚
+java:S1128	"@Remove this unused import 'com.stripe.param.ChargeCreateParams'.(ÁýX8éå’¦„2J$b032af23-51ca-4f48-ab4d-e6ba0990d6b6
+’
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8Ò¨²„2J$41d03d56-c74c-462b-a959-1f5d6962530d
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8éå’¦„2J$a53b1291-0d4d-4736-84f3-29df3b5a904f
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8éå’¦„2J$a50b6c63-f304-4a9d-8dfa-10bd8b377a7b

@@ -1,0 +1,15 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ççÂÉ8é‚”†‡2J$09e11e1f-0ec2-4d87-8e5e-6ca1a44cd307
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Œƒ”†‡2J$9bbc39b8-3d02-4aeb-b826-a46a8327cdbf
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ƒ”†‡2J$0ac31940-c67d-4371-926d-5c965ce1b283
+~
+java:S2696<"6Make the enclosing method "static" or remove this set.(«‹óîúÿÿÿÿ8®ƒ”†‡2J$aa4067fc-3433-40e0-a74d-4d7f0bdeea61
+~
+java:S2696U"6Make the enclosing method "static" or remove this set.(«‹óîúÿÿÿÿ8Àƒ”†‡2J$75a9b647-837c-4af4-89de-0f806f25f28d
+~
+java:S2696c"6Make the enclosing method "static" or remove this set.(«‹óîúÿÿÿÿ8Åƒ”†‡2J$41df1de0-9811-4bd4-9778-b49a41699b29
+w
+java:S1128
+"4Remove this unused import 'com.stripe.model.Charge'.(¶ğ8¨Ã®‡2J$4cdb0a49-d502-4bb0-b728-edc527f12a73

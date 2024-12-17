@@ -1,0 +1,6 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈúŒÛıÿÿÿÿ8óÜ«×†2J$a53b69f8-0417-40d6-b9a1-670cd5665938
+
+java:S1128"ERemove this unused import 'com.monsalve.inmoviliaria.Model.Articulo'.(ô‚àØÿÿÿÿÿ8ó³×†2J$9413cd05-4318-4dad-b304-df7f35b7c6b6
+~
+java:S1128";Remove this unused import 'com.stripe.model.PaymentIntent'.(«ÁÛ8ó³×†2J$b108e24f-16a3-46b5-b438-666cac3029fb

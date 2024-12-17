@@ -1,0 +1,16 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏÉŒÅ8¡×Ö¤ø1J$29346043-26d0-4501-bb57-8a4492290491
+—	java:S116"URename this field "nombre_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£²ÑÑ8â†»ü‚2J$bf3eb94b-953c-4794-9441-f8d8b40a0cbe
+š	java:S116"XRename this field "apellidos_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸşœÒ8¥×Ö¤ø1J$d2662bdf-572c-45d9-82f4-e3f28b59b478
+—	java:S116"URename this field "nrodoc_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›şÊ8¥×Ö¤ø1J$1abcc826-9e22-4c8a-b651-19bcb425d1b1
+	java:S116"WRename this field "telefono_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Şè¦ûÿÿÿÿ8Ş—¼ü‚2J$7e03b8ce-30e1-4331-b3a7-0199facf7912
+—	java:S116"URename this field "correo_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÆÉ8ÅÙ¼ü‚2J$d4a1b9ac-86f9-4fb0-bf63-d39a5e4d4a4c
+œ	java:S116"ZRename this field "descripcion_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ƒ–è8¦×Ö¤ø1J$49cc87d1-bbbf-4ab8-87fe-53144b2c3e94
+—	java:S116"URename this field "nombre_rol" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÍŒ¼8“ôıûø1J$27e96cbd-bed3-43ff-b1f1-15e120d6de57
+˜	java:S116"VRename this field "tipodoc_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬æ¶8•×ñ»…2J$90b6609a-23c1-4fa2-ade0-6b389096fc49
+œ	java:S116"[Rename this field "departamento_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÀËf8Ğ‘î»…2J$be1ef2f3-fc28-4d89-af8e-47f9b313e10f
+˜	java:S116"WRename this field "distrito_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÛé{8Ğ‘î»…2J$1f2afd2d-6972-4e6b-96a0-d3270f070ed2
+Ÿ	java:S116"XRename this field "direccion_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×¿®şÿÿÿÿ8Ñ‘î»…2J$9d219f79-9ef3-46dc-9f82-b96af189342e
+•	java:S116"SRename this field "pais_cli" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ™™Ë8æï»…2J$8892f475-c232-4817-8b3d-3e123c2507cf
+y
+java:S1128"7Remove this unused import 'jakarta.persistence.Column'.(Ó‰ÙE8«”àÜ“2J$58399937-d935-42b2-961f-3e70f7121692

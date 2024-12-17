@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.inmoviliaria.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.inmoviliaria.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.monsalve.inmoviliaria.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.monsalve.inmoviliaria.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.monsalve.inmoviliaria.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/com.monsalve.inmoviliaria.main~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/inmoviliaria.iml" filepath="$PROJECT_DIR$/.idea/inmoviliaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inmoviliaria.inmoviliaria.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/inmoviliaria.inmoviliaria.main~1.iml" />
+    </modules>
+  </component>
+</project>
